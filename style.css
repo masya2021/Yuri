@@ -335,7 +335,7 @@ img{
 @media (max-width:768px) {
     
     .name {
-        max-width: 160px;
+        /* max-width: 160px; */
         padding-right: 25px;
     }
 
